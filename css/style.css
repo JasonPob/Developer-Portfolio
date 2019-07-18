@@ -291,6 +291,11 @@ nav ul li a {
   color: #fff;
   font-size: 15px;
 }
+
+.header-content .list-social-github {
+  color: #fff;
+  font-size: 15px;
+}
 /* .header-content .list-social li {
   text-align: center;
   margin-right: 20px;
