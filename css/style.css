@@ -281,15 +281,25 @@ nav ul li a {
   font-weight: 500;
 }
 
-.header-content .list-social li {
-  float: left;
+
+.header-content .list-social  {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.header-content .list-social i {
+  color: #fff;
+  font-size: 15px;
+}
+/* .header-content .list-social li {
+  text-align: center;
   margin-right: 20px;
 }
 
 .header-content .list-social li i {
   color: #fff;
   font-size: 15px;
-}
+} */
 
 /*-----------------------------------------------------------------------------------*/
 /*  Aout-us
